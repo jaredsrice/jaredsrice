@@ -18,4 +18,8 @@ I'm Jared, a student at Brigham Young University-Idaho interested in Cybersecuri
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-rice-337a60354) 
 
+## Projects and Work
+I have one published website with its code [here] (https://github.com/jaredsrice/wdd130/tree/main/personalwebsite),
+a random scripture generator code [here] (https://github.com/jaredsrice/CSE111/tree/main/personal%20projects) that I'm planning on writing a UI for, and I'll have one major project in C# that I'm prepping for. 
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
