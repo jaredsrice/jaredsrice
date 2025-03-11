@@ -16,6 +16,6 @@ I'm Jared, a student at Brigham Young University-Idaho interested in Cybersecuri
 - Skills: Proficency with any tech put in front of me. I'm able to learn quickly and adapt to the needs of a given project or program. Proficent in Mac OS usage and troubleshooting, along with Microsoft Office. 
 ## Let's Connect!
 
-- Here is my [LinkedIn](www.linkedin.com/in/jared-rice-337a60354) profile
+- Here is my [LinkedIn](www.linkedin.com/in/jared-rice-337a60354) [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() profile.
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
