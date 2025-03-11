@@ -31,3 +31,5 @@ I’m also prepping a major project in C#, which will be added soon!
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=jaredsrice&show_icons=true&count_private=true&hide=prs&theme=radical)
