@@ -1,16 +1,21 @@
-## Hi there 👋
+# <Jared Rice>
 
-<!--
-**jaredsrice/jaredsrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Jared, a student at Brigham Young University-Idaho interested in Cybersecurity, Machine Learning, and Computer Science. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning C# and Data Science. 
+- My goals are to eventually branch out to Cybersecurity once I finish up with my career in the US Navy. 
+- Ask me about how to finish your degree with a monthly salary!
+
+## Technologies and Tools
+
+- Proficient in: Python, C#, HTML.
+- Skills: Proficency with any tech put in front of me. I'm able to learn quickly and adapt to the needs of a given project or program. Proficent in Mac OS usage and troubleshooting, along with Microsoft Office. 
+## Let's Connect!
+
+- Here is my [www.linkedin.com/in/jared-rice-337a60354] profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
