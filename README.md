@@ -13,13 +13,21 @@ I'm Jared, a student at Brigham Young University-Idaho interested in Cybersecuri
 ## Technologies and Tools
 
 - Proficient in: Python, C#, HTML.
-- Skills: Proficency with any tech put in front of me. I'm able to learn quickly and adapt to the needs of a given project or program. Proficent in Mac OS usage and troubleshooting, along with Microsoft Office. 
+- Skills: Proficiency with any tech put in front of me. I'm able to learn quickly and adapt to the needs of a given project or program. Proficient with macOS and troubleshooting, along with Microsoft Office. 
 ## Let's Connect!
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-rice-337a60354) 
 
 ## Projects and Work
-I have one published website with its code [here] (https://github.com/jaredsrice/wdd130/tree/main/personalwebsite),
-a random scripture generator code [here] (https://github.com/jaredsrice/CSE111/tree/main/personal%20projects) that I'm planning on writing a UI for, and I'll have one major project in C# that I'm prepping for. 
+
+## Personal Website
+Check out my personal website code [here](https://github.com/jaredsrice/wdd130/tree/main/personalwebsite).
+
+## Random Scripture Generator
+Explore the code for my random scripture generator [here](https://github.com/jaredsrice/CSE111/tree/main/personal%20projects).
+
+## Upcoming C# Project
+I’m also prepping a major project in C#, which will be added soon!
+
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
